@@ -6,6 +6,7 @@
 [Oo]bj/
 3rdParty/
 Builds/
+Standard Assets/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -21,6 +22,18 @@ obj/
 *.user
 *.unityproj
 *.booproj
+
+#=======================================#
+# image and shaders #                   
+#=======================================#
+*.png 
+*.shader
+*.mat
+*.fbx
+*.prefab
+*.tga
+*.asset
+*.tif
 
 # ===================================== #
 # Unity generated #
